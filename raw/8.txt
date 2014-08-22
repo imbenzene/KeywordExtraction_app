@@ -1,0 +1,81 @@
+For nearly a decade Nor1, the mobile upsell platform for hotels, has been standing on the mountaintop, shouting to hotels about the potential for ancillary sales and merchandizing. 
+But in the past year, a wave of hospitality companies — and investors — have started listening more closely to the Santa Clara, California-based company, which specializes in helping hotels push relevant, timely offers to travelers. 
+In July, Hilton announced an update to its mobile apps that, among other things, will allow guests to buy upgrades for rooms at its major brands. Nor1 is powering that technology. 
+In 2014, Nor1 landed as clients Caesars, Foxwoods, and Palms, among others. Those brands added to a list that includes Carlson Rezidor, Conrad, Denihan, Fairmont, Hard Rock, Hyatt, IHG, Joie de Vivre, Kempinksi, and Kimpton. 
+Nor1 claims to faciliate more than three million ancillary offers a month for these chains. 
+In May 2014, the 100-employee company launched eReach, a mobile-first product that’s based on predictive analytics. 
+The eReach product enables hotels such as the Fontainebleau Miami Beach to use their mobile platforms to merchandize restaurant, bar, spa, golf, and off-property attractions along with a room. 
+Hilton’s app, for instance, is powered by eStandby — another product. Nor1 has integrated its white-label service with the help of Hilton’s software development kits and APIs. 
+For insights, Tnooz interviewed CEO Jason Bryant. Questions and answers were condensed for brevity and clarity. 
+Nine years is a long time to be crying from the mountaintop. What is happening now that is causing hotels to finally adapt mobile upsell technologies? 
+A couple of things. The investors in many major hotel chains, like Blackstone in Hilton, are pushing the executives to more rapidly adapt innovations like ancillary sales than they have in the past. 
+They see building direct relationships and merchandizing as ways for hotels to ward off the erosion of net revenue caused by the rise of intermediaries, like the online travel agencies. 
+There are broader trends, too: Predictive analytics tools have finally become sophisticated and affordable. Mobile devices have proliferated. Those trends are driving change. 
+Hotel B2B tech is hot right now, with a dozen acquisitions, mergers, and major investments in the past year. Jason: When investors reach out to you to talk about the space, what do you say? 
+I answer these questions pretty regularly. [Laughs.] We constantly get a lot of interest. We’ve been lucky to have strategic investors in the company, and we work hard to keep those relationships warm. 
+For nine years now, investors have only been looking at companies that are mostly at the top of the transaction funnel, while we fit lower down. 
+Yet in the last six months, especially, we’ve felt a shift. At the HITEC conference, for example, we had well-above-average interest. People are recognizing that we can serve guests offers throughout the reservation lifecycle. 
+Looking ahead, three global brands are piloting Nor1′s solutions, even though the company hasn’t announced them as clients. We’ll have things to say by end of this year. 
+Last December, Nor1 took a $9 million funding round in December 2012. Are you raising for a Series C? 
+When we took the Series B, we said we would use the proceeds to grow our eStandby product and fortify our client basis globally. 
+We also said we would validate some assumptions about Front Desk Upsell, an integration with a hotel’s property management system (PMS). 
+(It lets the front desk clerk provide relevant offers at check-in while also enabling us to collect information from guests that we would struggle to get otherwise.) 
+We’ve done all that. 
+To reach our next goals — to roll out to hospitality broadly and to hire data scientists to improve the precision of our offers — we need another raise. 
+The $9 million investment that Nor1 received recently was led by Concur, the travel expenses platform. How has the Concur relationship evolved since? 
+Besides giving us access to its amazing CEO, Steve Singh, as a mentor — which is huge — the specific value is that it has given us a wealth of information about business travelers. 
+Concur has purviews into details of expense reporting that are astonishing. Imagine there’s Hotel X in Chicago. Concur knows what are the five top area restaurants that get expensed by travelers staying at that property. 
+That type of information has helped us qualify the opportunities in the market when reaching out to merchants. 
+In July, TripAdvisor acquired tours-and-activities consumer booking platform Viator. What’s next for that sector? 
+It’s a recognition of the importance of the tour and activities market for generating revenues as part of the booking cycle and online merchandising. 
+Nor1 saw the potential in the sector early. We acquired FlexTrip, a B2B tool for tours-and-activities, in September 2013. 
+For our model, what matters is relevancy. Instead of putting 65 tours in front of a travelers, it’s about curating. We integrate these offers into eReach, letting hotels engage with the guest by offering curated local experiences in real-time. 
+We aim to get as many hotel partners on board with it as is relevant. 
+TripAdvisor also bought LaFourchette, a restaurant tech platform. Any thoughts? 
+We think restaurants are really interesting as a merchandizing opportunity. Even more than anything else, restaurant offers are about knowing the right time to pitch the product to the guest. It’s about hours, not days. 
+The window is tight. We think our predictive analytics tools could give us an edge. 
+Could you share the broader vision for the company? 
+We have three products and those products are evolving into an ancillary platform. Our vision is to use the platform to sell a variety of merchandise. 
+The way we look at it is that we have a repository of “stuff”, for lack of a better word. 
+There’s hotel stuff (room inventory, upgrades, deals on the hotel restaurant). 
+There’s local, destination-based experience product, so we can offer guests tours-and-activities products near a property. Then we add local services content, such as restaurants, airport parking companies, etc. 
+Our hoped-for transformation, within a year from now, is that our global hotel partners will start to leverage our derivative content. To be clear, we’re doing very early pilots on this, so it’s only aspirational today. 
+Further ahead, there’s a huge opportunity to serve other travel suppliers with business intelligence. We could serve partners like airlines. 
+Who are Nor1′s rivals? 
+Any hotel that has an in-house upselling effort is, in a sense, a competitor. 
+But in terms of third-parties, for a product like eReach, there is no competitor. We have a patent on the technology behind eReach, about how we go about making our offers, and there’s no one else with comparable science. 
+Plus we’re unique in our approach: Each offers feeds into and informs the next offer made. 
+It’s different for our Front Desk product, which integrates with hotel PMSs. The more we focus on that product, the more we overlap with third-party services. But our approach is unique, which helps us stand out. 
+Mobile offers are hugely competitive in that there’s a lot of noise out there. But the other solutions out there tend to be one-off pitches. 
+Our value is in threading each successive offer made by a chain. We knit together the upsell information into a hotel’s overall customer relationship management and other data systems. 
+Why doesn’t Nor1 collect social information to build profiles of guests or maintain persistent digital connections with them? 
+Our core mantra is, “Whatever drives conversion.” Conversion is the metric, revenue growth is the ultimate goal. 
+One of our early investors was Accel Partners, which is a fund that’s really smart about social, thanks to its early involvement in Facebook, etc. 
+So, early on, we had access to social data. But it wasn’t really increasing conversion at the hotel inventory offers we were making. 
+Nor1 seems to be far more interested in the big global hotel chains than in the regionals and independents. Is that fair? 
+It’s been a progression. Early on, yes. We built the company by focusing on appealing to the globals. 
+My partner and I had enterprise backgrounds. And we needed corporate level buy-in because we needed corporate-level IT integration. 
+But in the last three years, our offices in Singapore and Frankfurt and here in the US have really pushed to service a broader spectrum of the industry. 
+Why should hotel companies turn to you, when they could build the tech in-house? 
+Predictive analytics requires intensive R&D. Not all hotel companies are going to want to invest in that, re-inventing the wheel. 
+We would rather our clients partner with us, rather than just buy a product off the shelf. The sum of the relationship will be greater than the product we’re providing. 
+How do you retain the best technical talent? 
+The engineers and data scientists have to feel what they’re doing is cool, that they have interesting and relevant problems to solve. 
+They also need the best tools to do their work, and that is a challenge investing-wise because the decision-science infrastructure is evolving so fast. Today it’s Hadoop and MongoDB. 
+Our latest creative solution: We’re building advisory groups that focus on solving really specific types of problems. 
+We call upon them routinely to serve as a sounding board for our data scientists. We provide the advisors with equity. We’re still in early stages with it, but it’s promising so far. 
+What do you think about the changes in the PMS space? 
+The fidelity of the data in hospitality is really extraordinary. It’s far better than in most other industries. 
+The property management system (PMS) is the holy grail of data. I don’t mean to over-dramatize it, but it’s good data that is being under-leveraged, especially for third parties like us. 
+Micros has an amazing position in the PMS space. But I don’t know how innovative it has been lately. 
+Maybe its new owner Oracle will breathe new life into its approach to the PMS — that could be pretty cool. But it’ll probably take longer than most people think. 
+What other companies in the hotel B2B tech space impress you that are not fellow members of Concur’s Perfect Trip group? 
+I could laundry-list a lot of startups, many of which we work with. I’m always amazed how many smart people are out there who are also able to lay it all on the line to get investors and build a business. 
+Duetto, I like — they’re doing cool stuff, and have a powerful vision. 
+Now for a personal question. We noticed that you volunteer at California Youth Connection. Can you speak about that? 
+I know a lot of fellow entrepreneurs, a lot of us go down a similar path which is that we tell ourselves that we want to give back, do something socially redeeming. 
+But I found I was telling myself that for a really long time without taking action. There’s always something coming up when you run a business. 
+So about a year-and-a-half ago, I decided I needed to do something, something that was manageable and that I could commit to consistently. 
+I looked for something I have an affinity for. I’m a foster child. And I never really talked to anyone about that, and that didn’t sit well with me. 
+So I joined this group in California, which has the biggest foster system in the US. I joined its board, because I have a lot of board expertise. 
+My message to others is to just do something, like going down to the food bank on Saturdays.

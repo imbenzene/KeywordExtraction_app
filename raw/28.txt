@@ -1,0 +1,40 @@
+There are some who remain very concerned about the digital strategy of many within the online travel industry. 
+NB: This is an analysis by Enrique Fernández, EMEA sales director for AffiliRed. 
+A recent Econsultancy report was specifically concerned with the industry’s apparent languid approach to responsive websites, given the rise in mobile transactions and the rapid growth rate in the global ownership of tablets. 
+There was a clear message that with the rise in services like mobile ticketing, boarding passes and the demand for on-the -go bookings the travel industry has got to get on board the mobile juggernaut now. 
+Furthermore, Tnooz reported similar findings in a report on airlines’ websites, announcing that 18% of the top 11 airlines don’t have a mobile website and PhoCusWright predicting a fifth of online travel bookings will come from a mobile device by 2015. 
+However, before you go rushing off to your finance director requesting more funds to make your website more responsive, just press pause for a while. 
+Take a breath 
+Whilst I agree that many brands need to join this trend, I also believe the importance is relative. 
+It is much more relevant, and therefore urgent, to a business with a short cycle of purchasing. For example urban destinations where you can browse and book a hotel room on the same night. 
+It’s rather less relevant to travel brands or destinations still using tour operators. 
+In these cases I don’t believe that browsing on mobiles factors highly at all. 
+When major planning is needed by the traveller, booking in advance is essential and this tends to be completed on a PC or laptop where people can take time before they make their choices. 
+The plain fact is many companies are more traditional than others. So for some, having a responsive site is rather urgent and for others it isn’t important at all. 
+Mobile executive for IAB, Mike Reynolds, said in a recent article: 
+I completely agree with Reynolds, and it’s an approach that we often see when dealing with web managers. 
+Bigger picture 
+As someone involved in the performance marketing sector, of course I’d welcome a different approach. 
+Affiliates that make huge efforts with mobile websites are affected by the lack of tracking across this channel. 
+In fact, the number of advertisers that include affiliate marketing in their mobile strategy is minimal. 
+If affiliates can’t track their sales in mobile devices, why should they make the effort? 
+Add to this the fact that multi-device navigation can make it hard to run CPA marketing campaigns and it becomes clear that we have some work to do in this channel. But that’s a problem for us to deal with. 
+The upshot is that the travel industry is at the cutting-edge when it comes to online marketing technology. 
+Booking.com is arguably one of the best websites in the world and its advertising strategy is, in many respects, pure genius. 
+Many tourist companies (particularly pure players), are leaders in online commercialization and new trends in online marketing. 
+However, for many companies, turnover from the online direct channel is pretty marginal, so it’s understandable that online is not that important for them. 
+Some businesses, whilst keeping an eye on the situation, are simply going at their own pace. 
+NB: This is an analysis by Enrique Fernández, EMEA sales director for AffiliRed. 
+I agree with Robert.  EVERY tourism operator, regardless of thier distribution model, will benefit from responsive web site design. 
+Many operators have fallen into the “we got a web site 3 years ago, why do we need to update it?” trap. 
+While I can’t comment on mobile apps, as a web site developer/marketer specialising in tourism operators in a well defined geographical area, all I’d say to tourism operators is, don’t rely on the OTAs and other distributors to get their book filled. 
+As Robert is sure to mention, a majority of potential guests/customers will use the OTAs to compare prices and maybe even book, but they’ll also visit the operator’s web site to check it out. 
+And the idea that “major planning”, still takes place on a PC or laptop is not what we’re seeing.  This may still be the case for those in the industry, but for FITs and non TA visitors, even “major planning” is more and more transferring to tablet devices on the weekends. 
+Operators must look to improving their web site design and performance before investing in a mobile app which they might not even need, and asking potential guests/customers to download and install.  Especially if they’re hoping this will somehow improve those “mobile conversions”. 
+Simply put, if an operator isn’t sure if they need to redevelop or redesign their tourism/travel business web site to responsive design, just look at their web site statistics and see what percentage of visitors are desktop, tablet or mobile. 
+If more than 20% are already mobile/tablet, then it’s time to make the jump, because it will only accelerate from here.  (After all, you wouldn’t *not* answer 20% of your phone calls, would you?) 
+In our experience, we’ve seen desktop share decline from around 80% to less than 60% in the last 18 months, and we’ve been watching our mobile share stats closely for at least the last four years, when it was under 15%.  The speed at which the switch to 40% plus average mobile visit share has ocurred, still caught us by surprise. 
+Needless to say, we’re developing new sites in responsive design, and upgrading all our current web sites to responsive, as fast as we can.  One almost immediate benefit we’ve seen from doing this, is improved visitor performance, with lower bounce rates, more pages visited and longer stays on sites, especially for accommodation operators. 
+With the exception of a small handful of OTAs and meta-search players, I would have to disagree with the assessment that “the travel industry is at the cutting-edge when it comes to online marketing technology” especially when it comes to mobile apps and websites, particularly for hotels. 
+The research I have conducted that has been published by PhoCusWright, with an updated cut to be presented at tomorrow’s Hotel Data Conference, hotel mobile app performance is pitifully poor – both in terms of number of downloads and user satisfaction ratings. 
+Hotel conversion rates crater following handoffs from travel meta-search sites – the rationale for TripAdvisor’s Instant Booking and Kayak’s long time internal booking process.
